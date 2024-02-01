@@ -112,7 +112,7 @@ stack_t *add_nodeint_queue(stack_t **stack, int n)
 
 /**
  * free_dlistint - frees a doubly linked list
- * @head: the head of the list
+ * @head: the header of the list
  */
 
 void free_dlistint(stack_t *head)
